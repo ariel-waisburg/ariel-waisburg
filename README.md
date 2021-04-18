@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ariel Waisburg 🕺</h1>
-<h3 align="left">I'm from Buenos Aires, Argentina. I'm starting my career path as a Full-Stack Developer after finishing Le Wagon's coding Bootcamp!</h3>
+<h3 align="left">I'm from Buenos Aires, Argentina. I'm starting my career path as a Software Developerp!</h3>
 
-- 🔭 I’m currently working on [Originex](http://www.originex.xyz/)
+- 💻 I'm working on [Celeri](https://celeri.app/index.html), which is a framework that automates business operations.
 
-- 🌱 I’m currently learning **"Secure Coding", a [Cybint Solutions](https://www.cybintsolutions.com/) product, which teach main cyber vulnerabilities that your code could suffer 🤟**
+- ❣️ I’ve developed [Originex](http://www.originex.xyz/) as the capstone project of Le Wagon's bootcamp.
 
-- 👯 I’m looking to collaborate on **any project where I can help building amazing products, learn from great developers and share my opinion 😄**
+- 🌱 I’m currently learning Node.js and React.js, so I would love to receive advice on how to get through the learning curve of both technologies in the best way 🤙
 
 - 📫 Reach me at **arielwaisburg@gmail.com** or via [LinkedIn](https://www.linkedin.com/in/ariel-waisburg-developer/)
 
-- 📄 Know about myself better [https://drive.google.com/file/d/1QdE1v6LHhAfFAG52OEfjjfVPhwYZ5v33/view?usp=sharing](https://drive.google.com/file/d/1QdE1v6LHhAfFAG52OEfjjfVPhwYZ5v33/view?usp=sharing)
+- 📄 Know about myself better through my [CV](https://drive.google.com/drive/folders/1RekSuYmVv2pNAW4kRYrWFowSMSBBQliv)
 
 🌎 Languages 🌎
 - 🇦🇷 Spanish: native

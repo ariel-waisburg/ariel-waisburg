@@ -9,7 +9,7 @@
 
 - 📫 Reach me at **arielwaisburg@gmail.com** or via [LinkedIn](https://www.linkedin.com/in/ariel-waisburg-developer/)
 
-- 📄 Know about myself better through my [CV](https://drive.google.com/drive/folders/1RekSuYmVv2pNAW4kRYrWFowSMSBBQliv)
+- 📄 Know about myself better through my [CV](https://drive.google.com/file/d/15mkeA46LIHZYpWuzYXMoD_N0Y6DgGnXt/view?usp=sharing)
 
 🌎 Languages 🌎
 - Spanish: native

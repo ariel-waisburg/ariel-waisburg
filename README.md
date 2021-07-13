@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ariel Waisburg 🕺</h1>
 <h3 align="left">I'm from Buenos Aires, Argentina. I'm starting my career path as a Software Developer!</h3>
 
+- ❔ It looks like I've not coded for a few months, but nowadays I'm working with gitlab, so all my stuff is there. 
+
 - 💻 I'm working on [Celeri](https://celeri.app/index.html), which is a framework that automates business operations.
 
 - ❣️ I’ve developed [Originex](http://www.originex.xyz/) as the capstone project of Le Wagon's bootcamp.
